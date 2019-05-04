@@ -1,0 +1,24 @@
+			Department of Computer Science
+					DATA STRUCTURES
+COMP232/242/2321 (First Semester – Fall 2016/2017)
+
+==================================================
+					Project # 3
+--------------------------------------------------
+Due Date: 31/12/2016
+
+Write a project that allows the user to read words and their meanings (more than one) from file
+and store them in AVL tree and then print the tree inorder, postorder, and preorder, and also
+print the result to file in the form of dictionary
+ A:
+..........
+B:
+..........
+and so on, and then search for a word and it's all meanings and if the word is not found add it to
+the tree then draw the tree in java graphics and finally ask the user if he want to delete any word.
+
+
+
+
+Good luck!
+
